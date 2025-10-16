@@ -36,6 +36,11 @@
       "key": "HAGR-278K-XEPX-N079",
       "expiry": "2025-10-16T15:49:33.611145Z",
       "bound_to": "5593967825"
+    },
+    {
+      "key": "DDP6-6NR5-ZJSR-LT15",
+      "expiry": "2025-10-19T10:56:20.735311Z",
+      "bound_to": "admin"
     }
   ]
 }
