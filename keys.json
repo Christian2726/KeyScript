@@ -3,6 +3,12 @@
     {
       "key": "KNGO-61WH-X6OJ-C6B6",
       "expiry": "2025-10-23"
+    },
+    {
+      "key": "L592-8EAH-VFRS-U3YZ",
+      "expiry": "2025-10-16T14:52:15.703675Z",
+      "bound_to": null,
+      "global": false
     }
   ]
 }
