@@ -3,6 +3,12 @@
     {
       "key": "KNGO-61WH-X6OJ-C6B6",
       "expiry": "2025-10-23"
+    },
+    {
+      "key": "FREE",
+      "expiry": "2025-10-16T10:57:36.134674Z",
+      "bound_to": null,
+      "global": false
     }
   ]
 }
