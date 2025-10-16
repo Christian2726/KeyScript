@@ -1,46 +1,5 @@
 {
-  "keys": [
-    {
-      "key": "KNGO-61WH-X6OJ-C6B6",
-      "expiry": "2025-10-23"
-    },
-    {
-      "key": "FREE",
-      "expiry": "2025-10-16T10:57:36.134674Z",
-      "bound_to": null,
-      "global": false
-    },
-    {
-      "key": "UAD4-R9DM-CMTS-5TTX",
-      "expiry": "2025-10-16T15:07:46.813658Z",
-      "bound_to": null,
-      "global": false
-    },
-    {
-      "key": "K2EB-L0ZP-EPQG-26RR",
-      "expiry": "2025-10-16T15:09:59.882645Z",
-      "bound_to": null,
-      "global": false
-    },
-    {
-      "key": "9558-XMAX-7M88-8PDZ",
-      "expiry": "2025-10-16T15:29:54.804903Z",
-      "bound_to": null
-    },
-    {
-      "key": "JOTG-71CA-LACG-DR8J",
-      "expiry": "2025-10-16T15:43:13.847188Z",
-      "bound_to": null
-    },
-    {
-      "key": "HAGR-278K-XEPX-N079",
-      "expiry": "2025-10-16T15:49:33.611145Z",
-      "bound_to": "5593967825"
-    },
-    {
-      "key": "F9K3-WBXK-C21H-N9BY",
-      "expiry": "2025-10-16T16:00:14.218900Z",
-      "bound_to": "5593967825"
-    }
-  ]
-}
+  
+  "keys": []
+  
+{
