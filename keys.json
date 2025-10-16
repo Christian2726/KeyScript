@@ -3,6 +3,12 @@
     {
       "key": "KNGO-61WH-X6OJ-C6B6",
       "expiry": "2025-10-23"
+    },
+    {
+      "key": "R47W-CRLC-3CFD-OYVT",
+      "expiry": "2025-10-16T14:53:52.740932Z",
+      "bound_to": null,
+      "global": false
     }
   ]
 }
